@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: idAddon
+## Notes: Sets the DND flag in combat.
+## Author: Industrial
+
+Addon.lua
+
