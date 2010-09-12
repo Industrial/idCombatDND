@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: idAddon
+## Title: idCombatDND
 ## Notes: Sets the DND flag in combat.
 ## Author: Industrial
 
