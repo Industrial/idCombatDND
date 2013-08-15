@@ -1,4 +1,4 @@
-## Interface: 30300
+## Interface: 50300
 ## Title: idCombatDND
 ## Notes: Sets the DND flag in combat.
 ## Author: Industrial
